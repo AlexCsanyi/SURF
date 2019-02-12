@@ -2,11 +2,11 @@
 
 ## To do
 
-- [x] wireframe
-- [x] design
-- [x] code
-- [x] responsive code
-- [x] motion, preloader, animation
+- [ ] wireframe
+- [ ] design
+- [ ] code
+- [ ] responsive code
+- [ ] motion, preloader, animation
 
 ## Style
 
