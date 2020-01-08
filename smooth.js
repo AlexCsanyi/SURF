@@ -28,13 +28,13 @@ var navElement2 = document.getElementById("nav-program");
 var navElement3 = document.getElementById("nav-gallery");
 
 navElement1.addEventListener("click", function() {
-  smoothScroll("#guide", 1000);
+  smoothScroll("#guide", 2000);
 });
 
 navElement2.addEventListener("click", function() {
-  smoothScroll("#program", 1000);
+  smoothScroll("#program", 2000);
 });
 
 navElement3.addEventListener("click", function() {
-  smoothScroll("#gallery", 1000);
+  smoothScroll("#gallery", 2000);
 });
