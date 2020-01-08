@@ -30,3 +30,11 @@ var navElement3 = document.getElementById("nav-gallery");
 navElement1.addEventListener("click", function() {
   smoothScroll("#guide", 1000);
 });
+
+navElement2.addEventListener("click", function() {
+  smoothScroll("#program", 1000);
+});
+
+navElement3.addEventListener("click", function() {
+  smoothScroll("#gallery", 1000);
+});
