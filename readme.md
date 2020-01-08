@@ -1,2 +1,2 @@
-# My Latest site added to my Portfolio
+# SURF - Responsive Single Static Site design
 A simple one page website design, clean and organized, using Sass, flexbox and grid.
