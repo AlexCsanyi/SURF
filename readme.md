@@ -1,2 +1,2 @@
 # My Latest site added to my Portfolio
-My name is Alex and this is my responsive portfolio site created from scratch
+A simple one page website design, clean and organized, using Sass, flexbox and grid.
